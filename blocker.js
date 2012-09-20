@@ -113,7 +113,7 @@
 		    starty = pos.y;
 		    drawing = true;
 		  }
-		  return false;
+		  //return false;
 		};
       }
 	  
